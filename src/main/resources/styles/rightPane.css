@@ -1,0 +1,12 @@
+.anchor-pane {
+    -fx-background-color: #494949;
+}
+.label {
+    -fx-text-fill: whitesmoke;
+}
+.scroll-pane > .viewport {
+    -fx-background-color: transparent;
+}
+.scroll-pane {
+    -fx-background-color: transparent;
+}
